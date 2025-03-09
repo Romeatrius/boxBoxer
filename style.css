@@ -1,0 +1,35 @@
+div {
+  background-color: red;
+  width: 65px;
+  height: 65px;
+  border: 1px solid black;
+  margin-left: 10px;
+  background-clip: content-box;
+}
+
+#first{
+  padding: 10px;
+  margin-bottom: 50px;
+}
+#second{
+  padding: 80px;
+  margin-bottom: 5px;
+}
+#third{
+  margin: top 100px;
+  margin-bottom: 50px
+  padding-left: 50px
+
+  ;
+}
+#fourth{
+  .box{
+    float:right
+    width: 200px
+  
+  }
+  margin-top: 150px;
+  margin: 40px
+  padding-right: 200px
+  padding-left: 200px
+}
